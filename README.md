@@ -1,5 +1,5 @@
 # Portafolio — Políticas Públicas & Machine Learning
-**Marco Amador** | MPP | ITAM
+**Marco Amador** | MPP | EGobyTP Tecnológico de Monterrey
 
 Proyectos de análisis de datos y ML aplicados a políticas públicas en México.
 
